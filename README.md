@@ -10,3 +10,5 @@ It was completely rewritten and enhanced using Unity3D and Playmaker for my pers
 The source code is available for download here. Licence Public Domain.
 
 Artwork/Sound: from iOS Games by Tutorials book, available at https://www.kodeco.com
+
+More infos and WebGL-Version to play at https://ralfg.itch.io/zombie-conga
